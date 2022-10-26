@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.176cd6a2.css","mappings":"AAEA,WACE,iBAAoB,CACpB,iJAEF","sources":["fonts/font.css"],"sourcesContent":["@charset \"utf-8\";\r\n\r\n@font-face {\r\n  font-family: \"BMJUA\";\r\n  src: url(\"./BMJUA_otf.otf\") format(\"opentype\"),\r\n    url(\"./BMJUA_ttf.ttf\") format(\"woff\");\r\n}\r\n"],"names":[],"sourceRoot":""}
